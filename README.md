@@ -23,6 +23,8 @@
 
 The spatial distribution of globular clusters (GCs) in galactic halos offers critical insights into the formation and evolution of their host galaxies. We combine new CFHT/WIRCam Ks-band imaging with archival CFHT/MegaCam optical data to identify GCs around the giant lenticular galaxy NGC 7332 and its spiral companion NGC 7339 using a uiKs colour-colour diagram. Given their close proximity to each other (35.2kpc assuming a shared distance of 20.5Mpc), we investigate the potential gravitational interaction by analyzing the spatial and colour distributions of their GC systems. The Ks-band data was obtained with CFHT/WIRCam as part of a proposal written for an inaugural undergraduate international learning experience provided by the University of Calgary in Spring 2024, led by Dr. Langill and Dr. Taylor. As part of this program, twelve students participated in writing proposals for CFHT and Gemini North, visited each observatory’s base facilities, and toured the telescopes at the summit of Maunakea. The uiKs diagram is a powerful tool to separate GCs from background galaxies and foreground stars by their magnitude variations across three filters. Early results have identified 90 GC candidates orbiting NGC 7332 and NGC 7339, providing key insights into their potential interaction and evolutionary histories.
 
+![NGC 7332 & NGC 7339 With Found Globular Clusters](/assets/img/NGC7332-7339withgc)
+
 <!--![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)-->
 
 ### Variable Star Analysis Detection Pipeline
@@ -58,7 +60,7 @@ This was my final project in ASPH 305, Introduction to Astrophysics, at the Univ
 - Speaker: Globular Cluster Science - Rothney Astrophysical Observatory School Groups, 2024-2025
 - Poster :  Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - CFHT UM, June 2025
 - Poster Flash Talk:  Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - CASCA, June 2025
-
+- Guest Speaker: Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP), May 2025
 
 <!--- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)-->
 

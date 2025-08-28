@@ -21,24 +21,44 @@
 ### Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT
 <!--[Publication](https://www.mdpi.com/1424-8220/22/8/3048) -->
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+The spatial distribution of globular clusters (GCs) in galactic halos offers critical insights into the formation and evolution of their host galaxies. We combine new CFHT/WIRCam Ks-band imaging with archival CFHT/MegaCam optical data to identify GCs around the giant lenticular galaxy NGC 7332 and its spiral companion NGC 7339 using a uiKs colour-colour diagram. Given their close proximity to each other (35.2kpc assuming a shared distance of 20.5Mpc), we investigate the potential gravitational interaction by analyzing the spatial and colour distributions of their GC systems. The Ks-band data was obtained with CFHT/WIRCam as part of a proposal written for an inaugural undergraduate international learning experience provided by the University of Calgary in Spring 2024, led by Dr. Langill and Dr. Taylor. As part of this program, twelve students participated in writing proposals for CFHT and Gemini North, visited each observatory’s base facilities, and toured the telescopes at the summit of Maunakea. The uiKs diagram is a powerful tool to separate GCs from background galaxies and foreground stars by their magnitude variations across three filters. Early results have identified 90 GC candidates orbiting NGC 7332 and NGC 7339, providing key insights into their potential interaction and evolutionary histories.
 
 <!--![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)-->
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Variable Star Analysis Detection Pipeline
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+This was one of the projects I worked on as a Intern at the Rothney Astrophysical Observatory.
+
+### Exoplanet Observations 
+<!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
+
+This was one of the projects I worked on as a Intern at the Rothney Astrophysical Observatory. I was assisting a fellow student in collecting data for ∼40 Exoplanets with the Clark-Milone Telescope, A.R. Cross Telescope and the Plaskett Telescope.
+
+### WASP-12b Exoplanet Analysis
+<!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
+
+This was my final project in ASPH 307, Observational Astrophysis, at the university of Calgary. In this lab using data from the Rothney Astrophysical Observatory I was able to reduce the transit data and fine a result consitant with published values for the size, orbital speed, and mass of WASP-12b.
+
+### Stellar Evolution Laboratory 
+<!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
+
+This was my final project in ASPH 403, Stellar Structure and Evolution, at the University of Calgary. In this lab I used the stellar evolution code MESA (Modules for Experiments in Stellar Astrophysics) to study the composition, size, and temperature over the lifetime of a star.
+
+### Observing Laboratory 
+<!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
+
+This was my final project in ASPH 305, Introduction to Astrophysics, at the University of Calgary. In this lab I used an 8 inch telescope and CCD camera to take data of Jupiter and stack into a final image and measure the diameter of Jupiter and Saturn.
 
 <!--![Bike Study](/assets/img/bike_study.jpeg)-->
 
 ## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Guest Speaker: Update on the Rothney Astrophysical Observatory  - Physics and Astrophysics Student Assosiation Reasearch Night, Nov 2024
+- Guest Lecture: Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - Rothney Astrophysical Observatory Space Night, May 2025
+- Speaker: Globular Cluster Science - Rothney Astrophysical Observatory School Groups, 2024-2025
+- Poster :  Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - CFHT UM, June 2025
+- Poster Flash Talk:  Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - CASCA, June 2025
+
 
 <!--- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)-->
 

@@ -25,6 +25,7 @@ The spatial distribution of globular clusters (GCs) in galactic halos offers cri
 
 ![NGC 7332 & NGC 7339 With Found Globular Clusters](/assets/img/NGC7332-7339withgc.png)
 
+![NGC 7332 & NGC 7339 With Found Globular Clusters](/assets/img/uiks_cc_diagram_w_labbles.png)
 <!--![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)-->
 
 ### Variable Star Analysis Detection Pipeline

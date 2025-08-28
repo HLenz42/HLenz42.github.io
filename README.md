@@ -35,6 +35,10 @@ The spatial distribution of globular clusters (GCs) in galactic halos offers cri
 
 This was one of the projects I worked on as a Intern at the Rothney Astrophysical Observatory.
 
+## SCIE 507: Hawai'i Maunakea Observatories 2024
+
+This was a inagral global learning class at the University of Calgary set up by two amazing proffesors Dr. Langill and Dr. Taylor. During this class we simulated what it is like to be a proffesional astrophysisit, we came up with a research idea, wrote proposals to both the Canada France Hawaii Telescope (CFHT) and Gemini North Telescope, and recived data back. Before we went on the trip we desided a good project for CFHT would be to observe NGC 7332 and NGC 7339 in the Ks band with WIRcam such that we could identify globular clusters, for Gemini we proposed to look at a globular cluster, M5, that has been reported to be rotating at an abnormaly fast rate, utilizing the GENRES instrument we wanted to confirm theese results. After submiting these proposals and getting time on both telescopes, 12 students and 2 proffessors went to the big island of Hawai'i. While at Hawai'i we toured the base facilities of both CFHT and Gemini and talked to the people working there who told us about the operation of the telecopes and the diffrent instruments used. We were lucky to be at both base facilites at night to see the telescopes in action and the variouse programs and procedurse used to control them. We were then even more luck to visit the telescopes at the sumit where we recived tours and talked to the Enginers currently working there, which was a truly incredible experiance. Unfortently Gemini was not able to collect data for us. When recived the data back from CFHT we started reducing it as a group, however we ran out of time in the semester. This is when I asked my supervisors to continue this work as my undergraduate thesis project. 
+
 ### Exoplanet Observations 
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 

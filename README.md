@@ -5,7 +5,7 @@
 
 ## Education 			        		
 - B.S., Astrophysics & Physics | University of Calgary (_Expected May 2026_)
-- High School Diploma | Centenial High School (_2021)
+- High School Diploma | Centenial High School (_2021_)
 
 ## Work Experience
 **Coordinator of Volunteers @ Rothney Astrophysical Observatory (_Aug 2024 - Present_)**
@@ -26,7 +26,8 @@ The spatial distribution of globular clusters (GCs) in galactic halos offers cri
 ![NGC 7332 & NGC 7339 With Found Globular Clusters](/assets/img/NGC7332-7339withgc.png)
 *Image of NGC 7332 and NGC 7339 with 139 newly identified globular clusters.*
 
-![NGC 7332 & NGC 7339 With Found Globular Clusters](/assets/img/uiks_cc_diagram_w_labbles.png)
+![uiKs diagram used to idetifiy globular clusters](/assets/img/uiks_cc_diagram_w_labbles.png)
+*uiKs coulour colour diagram used to identify globular clusters by usilizing near ultraviolet, optical, and near infaread photometry.*
 <!--![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)-->
 
 ### Variable Star Analysis Detection Pipeline

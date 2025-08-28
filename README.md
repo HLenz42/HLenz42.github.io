@@ -72,6 +72,10 @@ This was my final project in ASPH 305, Introduction to Astrophysics, at the Univ
 - CFHT Users Meeting 2025 - Presended a poster on my undergraduate thesis project
 - Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025 - I presented a power point on my undergraduate thesis project.
 
+## Working at the Rothney Astrophysical Observatory
+![Instructing a group of students](/assets/img/grade9_activity.jpg)
+*A example of one of our activities done with the school groups that come to the RAO. This is our Grade 9 parralax activity where we have two levels and get students to measure a distant object.*
+
 <!---## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
 2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.

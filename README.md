@@ -52,7 +52,9 @@ This was my final project in ASPH 307, Observational Astrophysis, at the univers
 ### Stellar Evolution Laboratory 
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
-This was my final project in ASPH 403, Stellar Structure and Evolution, at the University of Calgary. In this lab I used the stellar evolution code MESA (Modules for Experiments in Stellar Astrophysics) to study the composition, size, and temperature over the lifetime of a star.
+This was my final project in ASPH 403, Stellar Structure and Evolution, at the University of Calgary. In this lab I used the stellar evolution code MESA (Modules for Experiments in Stellar Astrophysics) to study the evolution of a 1.1 M⊙ star if it started with a Z=0.02 solar metalisity or started with a Z=0.0001 metalisity.
+
+
 
 ### Observing Laboratory 
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
@@ -72,8 +74,8 @@ This was my final project in ASPH 305, Introduction to Astrophysics, at the Univ
 <!--- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)-->
 
 ## Confrences
-- CASCA 2025 - Presended a poster on my undergraduate thesis project, I also had the opportunity to do a poster flash talk. <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">See my poster</a>
-- CFHT Users Meeting 2025 - Presended a poster on my undergraduate thesis project
+- CASCA 2025 - Presended a poster on my undergraduate thesis project, I also had the opportunity to do a poster flash talk. <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
+- CFHT Users Meeting 2025 - Presended a poster on my undergraduate thesis project <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
 - Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025 - I presented a power point on my undergraduate thesis project.
 
 ## Working at the Rothney Astrophysical Observatory

@@ -134,6 +134,7 @@ This was my final project in ASPH 305, Introduction to Astrophysics, at the Univ
 - **CASCA 2025** - Presended a poster on my undergraduate thesis project, I also had the opportunity to do a poster flash talk. <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
 - **CFHT Users Meeting 2025** - Presended a poster on my undergraduate thesis project <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
 - **CASTOR Small Teams Meeting 2025** - I was allowed to sit in on this meeting as I have been very intrested in the CASTOR porject.
+- **Graduate Student Wrokshop CASCA 2025** - 
 - **Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025** - I presented a power point on my undergraduate thesis project.
 
 ## Awards & Grants {#awards-grants}

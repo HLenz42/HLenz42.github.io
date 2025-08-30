@@ -16,12 +16,16 @@
 - [Awards & Grants](#awards-grants)
 - [Working at the Rothney Astrophysical Observatory](#rothney-observatory)
 
-#### Technical Skills: Python, Latex, Mira, Source-Extractor, Scamp, SWarp, Maxim DL, Microsoft suit
-#### Soft Skills: Critical thinking, Problem solving, Teamwork, Leadorship, Digital literacy, Public outreach
+
 
 ## Education {#education} 			        		
 - B.S., Astrophysics & Physics | University of Calgary (_Expected May 2026_)
 
+### Relavent Courcework
+PHYS 599 Undergraduate Thesis Project, ASPH 401 Galactic Astrophysics, ASPH 403 Stellar Astrophysics, ASPH 503 High Energy Astrophysics, ASPH 509 Interstellar Medium, SCIE 507 Hawai'i Maunakea Observatories, PHYS 443/543 Quantum Mechanics 1/2, PHYS 457 Electromagnetic Theory 3, PHYS 449/451 Statistical Mechanics 1/2, PHYS 397/497 Experimental Physics 1/2.
+
+#### Technical Skills: Python, Latex, Mira, Source-Extractor, Scamp, SWarp, Maxim DL, Microsoft suit
+#### Soft Skills: Critical thinking, Problem solving, Teamwork, Leadorship, Digital literacy, Public outreach
 ## Work Experience {#work-experience}
 **Coordinator of Volunteers @ Rothney Astrophysical Observatory (_Aug 2024 - Present_)**
 - In this position I coordinate 100+ student volunteers from the Physics and Astronomy department at the University of Calgary to help out with outreach events at the Rothney Astrophysical Observatory. As part of the job I have to organize individuals coming to an event, give them tasks, organize carpools, and train new volunteers in telescope operation and public speaking.

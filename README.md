@@ -1,28 +1,28 @@
 # Astrophysics Undergraduate Student
 
 ## Table of Contents
-- [Education](## Education)
-- [Work Experience](## Work Experience)
-- [Research Experiance](## Research Experiance)
-  - [Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT](### Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT)
-  - [Variable Star Analysis Detection Pipeline](### Variable Star Analysis Detection Pipeline)
-  - [SCIE 507: Hawai'i Maunakea Observatories 2024](### SCIE 507: Hawai'i Maunakea Observatories 2024)
-  - [Exoplanet Observations](### Exoplanet Observations )
-  - [WASP-12b Exoplanet Analysis](### WASP-12b Exoplanet Analysis)
-  - [Stellar Evolution Laboratory](### Stellar Evolution Laboratory )
-  - [Observing Laboratory](### Observing Laboratory )
-- [Talks & Lectures](## Talks & Lectures)
-- [Confrences](## Confrences)
-- [Awards & Grants](## Awards & Grants)
-- [Working at the Rothney Astrophysical Observatory](## Working at the Rothney Astrophysical Observatory)
+- [Education](#education)
+- [Work Experience](#work-experience)
+- [Research Experience](#research-experience)
+  - [Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT](#globular-clusters-ngc)
+  - [Variable Star Analysis Detection Pipeline](#variable-star-pipeline)
+  - [SCIE 507: Hawai'i Maunakea Observatories 2024](#maunakea-2024)
+  - [Exoplanet Observations](#exoplanet-observations)
+  - [WASP-12b Exoplanet Analysis](#wasp-12b-analysis)
+  - [Stellar Evolution Laboratory](#stellar-evolution-lab)
+  - [Observing Laboratory](#observing-lab)
+- [Talks & Lectures](#talks-lectures)
+- [Conferences](#conferences)
+- [Awards & Grants](#awards-grants)
+- [Working at the Rothney Astrophysical Observatory](#rothney-observatory)
 
 #### Technical Skills: Python, Latex, Mira, Source-Extractor, Scamp, SWarp, Maxim DL, Microsoft suit
 #### Soft Skills: Critical thinking, Problem solving, Teamwork, Leadorship, Digital literacy, Public outreach
 
-## Education 			        		
+## Education {#education} 			        		
 - B.S., Astrophysics & Physics | University of Calgary (_Expected May 2026_)
 
-## Work Experience
+## Work Experience {#work-experience}
 **Coordinator of Volunteers @ Rothney Astrophysical Observatory (_Aug 2024 - Present_)**
 - In this position I coordinate 100+ student volunteers from the Physics and Astronomy department at the University of Calgary to help out with outreach events at the Rothney Astrophysical Observatory. As part of the job I have to organize individuals coming to an event, give them tasks, organize carpools, and train new volunteers in telescope operation and public speaking.
 
@@ -32,8 +32,8 @@
 - Tacking Observations and scheduling
 - Public outreach and school programs
 
-## Research Experiance
-### Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT
+## Research Experiance {#research-experience}
+### Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT {#globular-clusters-ngc}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/8/3048) -->
 
 The spatial distribution of globular clusters (GCs) in galactic halos offers critical insights into the formation and evolution of their host galaxies. We combine new CFHT/WIRCam Ks-band imaging with archival CFHT/MegaCam optical data to identify GCs around the giant lenticular galaxy NGC 7332 and its spiral companion NGC 7339 using a uiKs colour-colour diagram. Given their close proximity to each other (35.2kpc assuming a shared distance of 20.5Mpc), we investigate the potential gravitational interaction by analyzing the spatial and colour distributions of their GC systems. The Ks-band data was obtained with CFHT/WIRCam as part of a proposal written for an inaugural undergraduate international learning experience provided by the University of Calgary in Spring 2024, led by Dr. Langill and Dr. Taylor. As part of this program, twelve students participated in writing proposals for CFHT and Gemini North, visited each observatory’s base facilities, and toured the telescopes at the summit of Maunakea. The uiKs diagram is a powerful tool to separate GCs from background galaxies and foreground stars by their magnitude variations across three filters. Early results have identified 90 GC candidates orbiting NGC 7332 and NGC 7339, providing key insights into their potential interaction and evolutionary histories.
@@ -45,26 +45,26 @@ The spatial distribution of globular clusters (GCs) in galactic halos offers cri
 *uiKs coulour colour diagram used to identify globular clusters by usilizing near ultraviolet, optical, and near infaread photometry.*
 <!--![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)-->
 
-### Variable Star Analysis Detection Pipeline
+### Variable Star Analysis Detection Pipeline {#variable-star-pipeline}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
 This was one of the projects I worked on as a Intern at the Rothney Astrophysical Observatory.
 
-### SCIE 507: Hawai'i Maunakea Observatories 2024
+### SCIE 507: Hawai'i Maunakea Observatories 2024 {#maunakea-2024}
 
 This was a inagral global learning class at the University of Calgary set up by two amazing proffesors Dr. Langill and Dr. Taylor. During this class we simulated what it is like to be a proffesional astrophysisit, we came up with a research idea, wrote proposals to both the Canada France Hawaii Telescope (CFHT) and Gemini North Telescope, and recived data back. Before we went on the trip we desided a good project for CFHT would be to observe NGC 7332 and NGC 7339 in the Ks band with WIRcam such that we could identify globular clusters, for Gemini we proposed to look at a globular cluster, M5, that has been reported to be rotating at an abnormaly fast rate, utilizing the GENRES instrument we wanted to confirm theese results. After submiting these proposals and getting time on both telescopes, 12 students and 2 proffessors went to the big island of Hawai'i. While at Hawai'i we toured the base facilities of both CFHT and Gemini and talked to the people working there who told us about the operation of the telecopes and the diffrent instruments used. We were lucky to be at both base facilites at night to see the telescopes in action and the variouse programs and procedurse used to control them. We were then even more luck to visit the telescopes at the sumit where we recived tours and talked to the Enginers currently working there, which was a truly incredible experiance. Unfortently Gemini was not able to collect data for us. When recived the data back from CFHT we started reducing it as a group, however we ran out of time in the semester. This is when I asked my supervisors to continue this work as my undergraduate thesis project, using new WIRcam Ks band CFHT data along with cataloge CFHT MegaCam data. 
 
-### Exoplanet Observations 
+### Exoplanet Observations {#exoplanet-observations} 
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
 This was one of the projects I worked on as a Intern at the Rothney Astrophysical Observatory. I was assisting a fellow student in collecting data for ∼40 Exoplanets with the Clark-Milone Telescope, A.R. Cross Telescope and the Plaskett Telescope.
 
-### WASP-12b Exoplanet Analysis
+### WASP-12b Exoplanet Analysis {#wasp-12b-analysis}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
 This was my final project in ASPH 307, Observational Astrophysis, at the university of Calgary. In this lab using data from the Rothney Astrophysical Observatory I was able to reduce the transit data and fine a result consitant with published values for the size, orbital speed, and mass of WASP-12b.
 
-### Stellar Evolution Laboratory 
+### Stellar Evolution Laboratory {#stellar-evolution-lab}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
 As part of my Astrophysics 403 term project at the University of Calgary, I collaborated with Andrea Luhar to model the evolution of a 1.1 solar mass star using MESA (Modules for Experiments in Stellar Astrophysics) software, tracing its lifecycle from pre-main sequence to white dwarf stages. We generated HR diagrams and analyzed luminosity changes, finding that the proton-proton (PP) chain dominated hydrogen burning, maintaining a stable ~1 L⊙ after 10^7 years, while the triple-alpha process triggered a helium flash peaking at ~10^7 L⊙ around 8.7 billion years for higher metallicity (Z=0.02). We also plotted stellar radius, core temperature, and elemental abundances (H, He, C), revealing sharp transitions in core composition and density during hydrogen and helium burning phases, with a notable “switchback” maneuver in the horizontal branch.
@@ -81,14 +81,14 @@ Re-simulating with low metallicity (Z=0.0001), we discovered a halved main seque
 
 
 
-### Observing Laboratory 
+### Observing Laboratory {#observing-lab}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
 This was my final project in ASPH 305, Introduction to Astrophysics, at the University of Calgary. In this lab I used an 8 inch telescope and CCD camera to take data of Jupiter and stack into a final image and measure the diameter of Jupiter and Saturn.
 
 <!--![Bike Study](/assets/img/bike_study.jpeg)-->
 
-## Talks & Lectures
+## Talks & Lectures {#talks-lectures}
 - Guest Speaker: Update on the Rothney Astrophysical Observatory  - Physics and Astrophysics Student Assosiation Reasearch Night, Nov 2024
 - Guest Lecture: Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - Rothney Astrophysical Observatory Space Night, May 2025
 - Speaker: Globular Cluster Science - Rothney Astrophysical Observatory School Groups, 2024-2025
@@ -98,15 +98,15 @@ This was my final project in ASPH 305, Introduction to Astrophysics, at the Univ
 
 <!--- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)-->
 
-## Confrences
+## Confrences {#conferences}
 - CASCA 2025 - Presended a poster on my undergraduate thesis project, I also had the opportunity to do a poster flash talk. <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
 - CFHT Users Meeting 2025 - Presended a poster on my undergraduate thesis project <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
 - Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025 - I presented a power point on my undergraduate thesis project.
 
-## Awards & Grants
+## Awards & Grants {#awards-grants}
 - 2021 Alaxander Rutherford Grant $2500
 
-## Working at the Rothney Astrophysical Observatory
+## Working at the Rothney Astrophysical Observatory {#rothney-observatory}
 ![Instructing a group of students](/assets/img/grade9_activity.jpg)
 *A example of one of our activities done with the school groups that come to the RAO. This is our Grade 9 parralax activity where we have two levels and get students to measure a distant object.*
 

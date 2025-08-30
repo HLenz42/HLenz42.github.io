@@ -55,10 +55,10 @@ As part of my Astrophysics 403 term project at the University of Calgary, I coll
 
 We also re-simulated the star with low metallicity (Z=0.0001), revealing a halved main sequence lifetime, smoother HR diagram paths, and more gradual transitions in density and temperature between stellar shells. This project deepened my understanding of stellar evolution and proficiency in data analysis and visualization, complementing my research experience with the Canada France Hawaii Telescope and internship at Rothney Astrophysical Observatory.
 
-![Star evolution high metalisity](/assets/img/HRdiagram2(1).png)
+![Star evolution high metalisity](/assets/img/ASPH403/HRdiagram2(1).png)
 *Star evolution of a 1.1 M⊙ star MESA simulation.*
 
-![Star evolution low metalisity](/assets/img/HRdiagram2.png)
+![Star evolution low metalisity](/assets/img/ASPH403/HRdiagram2.png)
 *Star evolution of a 1.1 M⊙ star MESA simulation with lower metalisity showing a shorter time spent in the main sequence.*
 
 

@@ -11,7 +11,7 @@
   - [WASP-12b Exoplanet Analysis](#wasp-12b-analysis)
   - [Stellar Evolution Laboratory](#stellar-evolution-lab)
   - [Observing Laboratory](#observing-lab)
-- [Successful Observiong Probosals] {#observing-proposals}
+- [Successful Observiong Probosals](#observing-proposals)
 - [Talks & Lectures](#talks-lectures)
 - [Conferences](#conferences)
 - [Awards & Grants](#awards-grants)

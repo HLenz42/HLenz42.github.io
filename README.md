@@ -51,15 +51,16 @@ This was my final project in ASPH 307, Observational Astrophysis, at the univers
 ### Stellar Evolution Laboratory 
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
-As part of my Astrophysics 403 term project at the University of Calgary, I collaborated with Andrea Luhar to model the evolution of a 1.1 M⊙ star using the MESA (Modules for Experiments in Stellar Astrophysics) software, analyzing its lifecycle from pre-main sequence to white dwarf stages. We created HR diagrams, tracked luminosity changes during hydrogen and helium burning phases, and examined stellar radius, core temperature, and elemental abundances (H, He, C) over time, with detailed plots highlighting key evolutionary stages like the helium flash at ~8.7 billion years for solar metallicity (Z=0.02). 
+As part of my Astrophysics 403 term project at the University of Calgary, I collaborated with Andrea Luhar to model the evolution of a 1.1 solar mass star using MESA (Modules for Experiments in Stellar Astrophysics) software, tracing its lifecycle from pre-main sequence to white dwarf stages. We generated HR diagrams and analyzed luminosity changes, finding that the proton-proton (PP) chain dominated hydrogen burning, maintaining a stable ~1 L⊙ after 10^7 years, while the triple-alpha process triggered a helium flash peaking at ~10^7 L⊙ around 8.7 billion years for higher metallicity (Z=0.02). We also plotted stellar radius, core temperature, and elemental abundances (H, He, C), revealing sharp transitions in core composition and density during hydrogen and helium burning phases, with a notable “switchback” maneuver in the horizontal branch.
 
-We also re-simulated the star with low metallicity (Z=0.0001), revealing a halved main sequence lifetime, smoother HR diagram paths, and more gradual transitions in density and temperature between stellar shells. This project deepened my understanding of stellar evolution and proficiency in data analysis and visualization, complementing my research experience with the Canada France Hawaii Telescope and internship at Rothney Astrophysical Observatory.
+Re-simulating with low metallicity (Z=0.0001), we discovered a halved main sequence lifetime (4.3 billion years for helium flash) and a smoother HR diagram path without the switchback, with the second luminosity peak during helium burning 100 times brighter (10^7 L⊙) than the solar metallicity model. The low metallicity star exhibited more gradual density and temperature transitions between shells, with faster core hydrogen depletion and extended white dwarf cooling. These results deepened my expertise in stellar evolution modeling and data analysis, complementing my research with the Canada France Hawaii Telescope and internship at Rothney Astrophysical Observatory.
+
 
 ![Star evolution high metalisity](/assets/img/ASPH403/HRdiagram2(1).png)
-*Star evolution of a 1.1 M⊙ star MESA simulation.*
+*Our first MESA simulation of 1.1 M⊙ star with high metalisity.*
 
 ![Star evolution low metalisity](/assets/img/ASPH403/HRdiagram2.png)
-*Star evolution of a 1.1 M⊙ star MESA simulation with lower metalisity showing a shorter time spent in the main sequence.*
+*Star evolution of a 1.1 M⊙ star MESA simulation with lower metalisity showing a shorter time spent in the main sequence. This simulation showed a relatifly shorter time spent in the main sequence and the second luminosity peak during helim burning to be 100 times brighter.*
 
 
 

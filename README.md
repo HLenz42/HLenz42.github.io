@@ -78,6 +78,9 @@ This was my final project in ASPH 305, Introduction to Astrophysics, at the Univ
 - CFHT Users Meeting 2025 - Presended a poster on my undergraduate thesis project <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
 - Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025 - I presented a power point on my undergraduate thesis project.
 
+## Awards & Grants
+- 2021 Alaxander Rutherford Grant
+
 ## Working at the Rothney Astrophysical Observatory
 ![Instructing a group of students](/assets/img/grade9_activity.jpg)
 *A example of one of our activities done with the school groups that come to the RAO. This is our Grade 9 parralax activity where we have two levels and get students to measure a distant object.*

@@ -8,9 +8,10 @@
   - [Variable Star Analysis Pipeline](#variable-star-pipeline)
   - [SCIE 507: Hawai'i Maunakea Observatories 2024](#maunakea-2024)
   - [Exoplanet Observations](#exoplanet-observations)
-  - [WASP-12b Exoplanet Analysis](#wasp-12b-analysis)
   - [Stellar Evolution Laboratory](#stellar-evolution-lab)
-  - [Observing Laboratory](#observing-lab)
+  - [WASP-12b Exoplanet Analysis](#wasp-12b-analysis)
+  - [Spectra Stidies with the RAO Echelle Spectrograph](#echelle-spectrograph)
+  - [Jupiter Size Measurement Laboratory](#observing-lab)
 - [Successful Observiong Proposals](#observing-proposals)
 - [Talks & Lectures](#talks-lectures)
 - [Conferences](#conferences)
@@ -84,10 +85,6 @@ This was a inagral global learning class at the University of Calgary set up by 
 
 This was one of the projects I worked on as a Intern at the Rothney Astrophysical Observatory. I was assisting a fellow student in collecting data for ∼40 Exoplanets with the Clark-Milone Telescope, A.R. Cross Telescope and the Plaskett Telescope.
 
-### WASP-12b Exoplanet Analysis {#wasp-12b-analysis}
-<!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
-
-This was my final project in ASPH 307, Observational Astrophysis, at the university of Calgary. In this lab using data from the Rothney Astrophysical Observatory I was able to reduce the transit data and fine a result consitant with published values for the size, orbital speed, and mass of WASP-12b.
 
 ### Stellar Evolution Laboratory {#stellar-evolution-lab}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
@@ -96,6 +93,21 @@ As part of my Astrophysics 403 term project at the University of Calgary, I coll
 
 Re-simulating with low metallicity (Z=0.0001), we discovered a halved main sequence lifetime (4.3 billion years for helium flash) and a smoother HR diagram path without the switchback, with the second luminosity peak during helium burning 100 times brighter (10^7 L⊙) than the solar metallicity model. The low metallicity star exhibited more gradual density and temperature transitions between shells, with faster core hydrogen depletion and extended white dwarf cooling. These results deepened my expertise in stellar evolution modeling and data analysis, complementing my research with the Canada France Hawaii Telescope and internship at Rothney Astrophysical Observatory.
 
+### WASP-12b Exoplanet Analysis {#wasp-12b-analysis}
+<!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
+
+This was my final project in ASPH 307, Observational Astrophysis, at the university of Calgary. In this lab using data from the Rothney Astrophysical Observatory I was able to reduce the transit data and fine a result consitant with published values for the size, orbital speed, and mass of WASP-12b.
+
+
+As part of my Astrophysics 307, Observational Astrophysis, group project at the University of Calgary, I worked in a group to study the exoplanet transit of WASP-12b across its host star WASP-12a. Using software tools like Mira and Tycho, we pre-processed astronomical images by subtracting darks and biases, dividing by flats, and performing photometry to measure instrumental magnitudes. We analyzed atmospheric extinction, determining coefficients around 0.6 for our target and reference stars, and generated light curves with up to 20 comparison stars to reveal a clear transit dip. From this, we calculated a magnitude difference of ~0.012 during transit, flux ratios indicating a ~1% brightness drop, and estimated the planet's radius at approximately 12 Earth radii which is consistant with published values. 
+
+This project honed my skills in image processing, photometry, and light curve analysis, which I later applied during my internship at the Rothney Astrophysical Observatory (RAO), where I operated telescopes and coordinated outreach. It also laid the foundation for developing my variable star analysis detection pipeline, enhancing my proficiency in handling variable astronomical data and preparing me for advanced research in stellar and exoplanet studies.
+
+### Spectra Stidies with the RAO Echelle Spectrograph {#echelle-spectrograph}
+
+As part of my Astrophysics 307, Observational Astrophysis, group project at the University of Calgary, I worked in a group to analyze stellar spectra obtained from the Rothney Astrophysical Observatory's (RAO) Echelle Spectrograph using Visual Spec software. We measured Earth's orbital speed by examining Doppler shifts in the 34th and 35th orders of spectra from β Gem (sunset, K0 III) and α Ser (sunrise, K2 III), calculating an average velocity of approximately 23 km/s, which deviated slightly from the theoretical 29.78 km/s due to potential instrumental errors. The second part of the project involved qualitative analysis of spectral profiles for stars of decreasing temperatures (A1.5 IV at 9185 K, F5 IV at 6700 K, G9.5 III at 5480 K, M0.5 III at 3630 K), identifying elements like Ti, Zr, Cr, and Fe, and noting trends such as increasing noise, wider absorption lines, and more lines in cooler stars due to atmospheric density differences. Part C explored the spectrograph's mechanics, including trends in plate factors decreasing with higher orders for better resolution (up to ~10,000), enabling radial velocity measurements down to ~30 km/s, with a slit angular size of ~2.5" and effective focal length of ~4.125 m.
+
+This project enhanced my expertise in spectral rectification, Gaussian fitting, and Doppler analysis, skills I directly applied during my internship at the RAO, where I operated telescopes and processed spectroscopic data for outreach and research. It also built foundational knowledge in handling wavelength shifts and absorption features, which informed the development of my variable star analysis detection pipeline by improving techniques for identifying variability in stellar spectra and light curves.
 
 ![Star evolution high metalisity](/assets/img/ASPH403/HRdiagram2(1).png)
 *Our first MESA simulation of 1.1 M⊙ star with high metalisity.*
@@ -106,13 +118,22 @@ Re-simulating with low metallicity (Z=0.0001), we discovered a halved main seque
 
 
 
-### Observing Laboratory {#observing-lab}
+### Jupiter Size Measurement Laboratory {#observing-lab}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
 This was my final project in ASPH 305, Introduction to Astrophysics, at the University of Calgary. In this lab I used an 8 inch telescope and CCD camera to take data of Jupiter and stack into a final image and measure the diameter of Jupiter and Saturn.
 
+
+As part of my Astrophysics 305 lab at the University of Calgary, I collaborated with fellow students to measure the physical size of Jupiter and its atmospheric bands using ground-based observations. On October 3, 2022, we used a Celestron 8-inch telescope with a Neximage 5 CCD camera on the University of Calgary campus, capturing AVI videos under clear skies. After processing images in Registax 6.1 (stacking 55% of frames, applying wavelet transforms, and RGB balancing), we analyzed them in SAOImage to determine pixel sizes, calculating Jupiter's angular diameter (43.9") and physical diameter (1.26 × 10^8 m, close to the actual 1.43 × 10^8 m). We also measured the upper band's size (9.22 × 10^6 m), lower band's size (9.88 × 10^6 m), and distance between bands (3.18 × 10^7 m), with errors (1.09 × 10^6 m) derived from Gaussian FWHM analysis, noting discrepancies possibly due to atmospheric seeing or instrumental factors. 
+
+This lab sharpened my skills in telescope operation, image processing with Registax and SAOImage, and trigonometric calculations for angular measurements, which I directly applied during my internship at the Rothney Astrophysical Observatory (RAO), where I handled similar CCD imaging and data reduction for planetary and stellar observations. It also provided foundational experience in analyzing variable features like planetary bands, influencing the development of my variable star analysis detection pipeline by improving techniques for frame stacking, noise reduction, and precise photometric measurements in dynamic astronomical datasets.
+
+
+
+
+
 <!--![Bike Study](/assets/img/bike_study.jpeg)-->
-## Successful Observiong Proposals {#observing-proposals}
+## Successful Observing Proposals {#observing-proposals}
 - Co-I, Gemini North Observatory, 2.83 hours (2024)
   - **Project:** "Seeing Stars! Measuring the dizzying spin of the Galactic globular cluster M5"
   - **Goal:** To use the Gemini Near-InfraRead Spectrograph (GNIRS) to measure the rotational velocity of the globular cluster M5. This globular cluster was important to observe as a previouse paper reported it to have an abnoraly high spin rate, therfore by observing M5 with GNIRS we could confirm this measurment.

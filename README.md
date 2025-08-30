@@ -5,7 +5,6 @@
 
 ## Education 			        		
 - B.S., Astrophysics & Physics | University of Calgary (_Expected May 2026_)
-<!--- High School Diploma | Centenial High School (_2021_) -->
 
 ## Work Experience
 **Coordinator of Volunteers @ Rothney Astrophysical Observatory (_Aug 2024 - Present_)**

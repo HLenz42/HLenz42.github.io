@@ -5,7 +5,7 @@
 - [Work Experience](#work-experience)
 - [Research Experience](#research-experience)
   - [Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT](#globular-clusters-ngc)
-  - [Variable Star Analysis Detection Pipeline](#variable-star-pipeline)
+  - [Variable Star Analysis Pipeline](#variable-star-pipeline)
   - [SCIE 507: Hawai'i Maunakea Observatories 2024](#maunakea-2024)
   - [Exoplanet Observations](#exoplanet-observations)
   - [WASP-12b Exoplanet Analysis](#wasp-12b-analysis)
@@ -38,7 +38,7 @@
 - I have operated the 1.8m A.R. Cross Telescope (ARCT), 0.5m Kaylie Green Memorial Telescope (KGMT), and 0.4m Clark-Milone Telescope (CMT) to observe exoplanets, eclipsing binaries, galaxies, nebulas, super nova reminants, and more!
 - While operating telescpes I have found several bugs in there operation both softwere and mechanical related and have fixed the problems.
 - During the summer of 2024 partispated in dissasembling the KGMT in order to gain access to the camera for repair.
-- Developed Python-based data processing pipelines,to automate the reduction of photometric datasets and reduce analysis time [Variable Star Analysis Detection Pipeline](#variable-star-pipeline).
+- Developed Python-based data processing pipelines,to automate the reduction of photometric datasets and reduce analysis time [Variable Star Analysis Pipeline](#variable-star-pipeline).
 - Gathered exoplanet transit data that verified published exoplanit transit parametsrs such as planet radiuse and impact parameter using the ARCT, KGMT, and CMT [Exoplanet Observations](#exoplanet-observations).
 - Developed observing scheduals for the RAO telescopes to optimise observation time.
 - Delivered public lectures on exoplanetary science, stellar evolution, galactic structure, globular clusters, galaxy interaction, and astrophotography to audiences of 150+ participants. I gave thes talks to audiances of all ages from grad 4 to high school to the general public.
@@ -56,10 +56,18 @@ The spatial distribution of globular clusters (GCs) in galactic halos offers cri
 *uiKs coulour colour diagram used to identify globular clusters by usilizing near ultraviolet, optical, and near infaread photometry.*
 <!--![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)-->
 
-### Variable Star Analysis Detection Pipeline {#variable-star-pipeline}
+### Variable Star Analysis Pipeline {#variable-star-pipeline}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
 This was one of the projects I worked on as a Intern at the Rothney Astrophysical Observatory.
+
+
+![Star evolution high metalisity](/assets/img/var/star_timelapse_Wasp12b_star10017_differential_mag.mpg)
+*Our first MESA simulation of 1.1 M⊙ star with high metalisity.*
+![Star evolution high metalisity](/assets/img/var/star_timelapse_Wasp12b_star10058_differential_mag.mpg)
+*Our first MESA simulation of 1.1 M⊙ star with high metalisity.*
+![Star evolution high metalisity](/assets/img/var/star_profile_star_10003_Wasp12b_MAG_AUTO_uw.png)
+*Our first MESA simulation of 1.1 M⊙ star with high metalisity.*
 
 ### SCIE 507: Hawai'i Maunakea Observatories 2024 {#maunakea-2024}
 
@@ -119,6 +127,7 @@ This was my final project in ASPH 305, Introduction to Astrophysics, at the Univ
 ## Confrences {#conferences}
 - **CASCA 2025** - Presended a poster on my undergraduate thesis project, I also had the opportunity to do a poster flash talk. <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
 - **CFHT Users Meeting 2025** - Presended a poster on my undergraduate thesis project <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
+- **CASTOR Small Teams Meeting 2025** - I was allowed to sit in on this meeting as I have been very intrested in the CASTOR porject.
 - **Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025** - I presented a power point on my undergraduate thesis project.
 
 ## Awards & Grants {#awards-grants}

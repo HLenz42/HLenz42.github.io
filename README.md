@@ -5,7 +5,7 @@
 
 ## Education 			        		
 - B.S., Astrophysics & Physics | University of Calgary (_Expected May 2026_)
-- High School Diploma | Centenial High School (_2021_)
+<!--- High School Diploma | Centenial High School (_2021_) -->
 
 ## Work Experience
 **Coordinator of Volunteers @ Rothney Astrophysical Observatory (_Aug 2024 - Present_)**
@@ -52,7 +52,16 @@ This was my final project in ASPH 307, Observational Astrophysis, at the univers
 ### Stellar Evolution Laboratory 
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
-This was my final project in ASPH 403, Stellar Structure and Evolution, at the University of Calgary. In this lab I used the stellar evolution code MESA (Modules for Experiments in Stellar Astrophysics) to study the evolution of a 1.1 M⊙ star if it started with a Z=0.02 solar metalisity or started with a Z=0.0001 metalisity.
+As part of my Astrophysics 403 term project at the University of Calgary, I collaborated with Andrea Luhar to model the evolution of a 1.1 M⊙ star using the MESA (Modules for Experiments in Stellar Astrophysics) software, analyzing its lifecycle from pre-main sequence to white dwarf stages. We created HR diagrams, tracked luminosity changes during hydrogen and helium burning phases, and examined stellar radius, core temperature, and elemental abundances (H, He, C) over time, with detailed plots highlighting key evolutionary stages like the helium flash at ~8.7 billion years for solar metallicity (Z=0.02). 
+
+We also re-simulated the star with low metallicity (Z=0.0001), revealing a halved main sequence lifetime, smoother HR diagram paths, and more gradual transitions in density and temperature between stellar shells. This project deepened my understanding of stellar evolution and proficiency in data analysis and visualization, complementing my research experience with the Canada France Hawaii Telescope and internship at Rothney Astrophysical Observatory.
+
+![Star evolution high metalisity](/assets/img/HRdiagram2(1).png)
+*Star evolution of a 1.1 M⊙ star MESA simulation.*
+
+![Star evolution low metalisity](/assets/img/HRdiagram2.png)
+*Star evolution of a 1.1 M⊙ star MESA simulation with lower metalisity showing a shorter time spent in the main sequence.*
+
 
 
 
@@ -79,7 +88,7 @@ This was my final project in ASPH 305, Introduction to Astrophysics, at the Univ
 - Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025 - I presented a power point on my undergraduate thesis project.
 
 ## Awards & Grants
-- 2021 Alaxander Rutherford Grant
+- 2021 Alaxander Rutherford Grant $2500
 
 ## Working at the Rothney Astrophysical Observatory
 ![Instructing a group of students](/assets/img/grade9_activity.jpg)

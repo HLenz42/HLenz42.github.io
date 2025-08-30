@@ -50,6 +50,8 @@
 
 The spatial distribution of globular clusters (GCs) in galactic halos offers critical insights into the formation and evolution of their host galaxies. We combine new CFHT/WIRCam Ks-band imaging with archival CFHT/MegaCam optical data to identify GCs around the giant lenticular galaxy NGC 7332 and its spiral companion NGC 7339 using a uiKs colour-colour diagram. Given their close proximity to each other (35.2kpc assuming a shared distance of 20.5Mpc), we investigate the potential gravitational interaction by analyzing the spatial and colour distributions of their GC systems. The Ks-band data was obtained with CFHT/WIRCam as part of a proposal written for an inaugural undergraduate international learning experience provided by the University of Calgary in Spring 2024, led by Dr. Langill and Dr. Taylor. As part of this program, twelve students participated in writing proposals for CFHT and Gemini North, visited each observatory’s base facilities, and toured the telescopes at the summit of Maunakea. The uiKs diagram is a powerful tool to separate GCs from background galaxies and foreground stars by their magnitude variations across three filters. Early results have identified 90 GC candidates orbiting NGC 7332 and NGC 7339, providing key insights into their potential interaction and evolutionary histories.
 
+[Final Report](/assets/img/Phys599_FinalReport_HLenz.pdf)
+
 ![NGC 7332 & NGC 7339 With Found Globular Clusters](/assets/img/NGC7332-7339withgc.png)
 *Image of NGC 7332 and NGC 7339 with 139 newly identified globular clusters.*
 
@@ -60,9 +62,9 @@ The spatial distribution of globular clusters (GCs) in galactic halos offers cri
 ### Variable Star Analysis Pipeline {#variable-star-pipeline}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
-This was one of the projects I worked on as a Intern at the Rothney Astrophysical Observatory.
+As a major project during my internship at the Rothney Astrophysical Observatory (RAO), I developed a Python-based pipeline for detecting variable stars from raw astronomical images. The code automates the entire process: starting with input raw images, darks, biases, and flats, it performs bias, dark, and flat corrections. It then uploads the corrected images to astrometry.net to obtain World Coordinate System (WCS) information, followed by running Source Extractor for photometry to generate catalogs. A tracking script automatically follows stars across the image set, producing check plots for verification. The pipeline queries SIMBAD for star classifications, flagging known variables, and performs differential photometry by selecting a user-specified number of nearby non-variable comparison stars. It iteratively detects new variables from the initial photometry run, flags them, and reruns differential photometry to refine results, ensuring comparison stars are stable. Finally, it generates detailed plots and analysis logs highlighting potential new variable stars in the field. I adapted this pipeline to handle data from all RAO telescopes, including the CMT, ARCT, and KGMT.
 
-
+This project significantly enhanced my programming skills in Python, image processing, and astronomical data analysis. At RAO, I applied it to real telescope data, improving efficiency in variable star detection for outreach and research. It also integrated techniques from my globular cluster research with the Canada France Hawaii Telescope, such as photometry using [Source Extractor]([https://www.mdpi.com/1424-8220/22/11/4240](https://www.astromatic.net/software/sextractor/)) and tracking, preparing me for graduate-level work in stellar variability and time-series analysis with large data sets in python.
 
 
 <video controls width="100%" height="auto">

@@ -1,5 +1,21 @@
 # Astrophysics Undergraduate Student
 
+## Table of Contents
+- [Education](## Education)
+- [Work Experience](## Work Experience)
+- [Research Experiance](## Research Experiance)
+  - [Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT](### Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT)
+  - [Variable Star Analysis Detection Pipeline](### Variable Star Analysis Detection Pipeline)
+  - [SCIE 507: Hawai'i Maunakea Observatories 2024](### SCIE 507: Hawai'i Maunakea Observatories 2024)
+  - [Exoplanet Observations](### Exoplanet Observations )
+  - [WASP-12b Exoplanet Analysis](### WASP-12b Exoplanet Analysis)
+  - [Stellar Evolution Laboratory](### Stellar Evolution Laboratory )
+  - [Observing Laboratory](### Observing Laboratory )
+- [Talks & Lectures](## Talks & Lectures)
+- [Confrences](## Confrences)
+- [Awards & Grants](## Awards & Grants)
+- [Working at the Rothney Astrophysical Observatory](## Working at the Rothney Astrophysical Observatory)
+
 #### Technical Skills: Python, Latex, Mira, Source-Extractor, Scamp, SWarp, Maxim DL, Microsoft suit
 #### Soft Skills: Critical thinking, Problem solving, Teamwork, Leadorship, Digital literacy, Public outreach
 

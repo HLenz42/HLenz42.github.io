@@ -11,6 +11,7 @@
   - [WASP-12b Exoplanet Analysis](#wasp-12b-analysis)
   - [Stellar Evolution Laboratory](#stellar-evolution-lab)
   - [Observing Laboratory](#observing-lab)
+- [Successful Observiong Probosals] {#observing-proposals}
 - [Talks & Lectures](#talks-lectures)
 - [Conferences](#conferences)
 - [Awards & Grants](#awards-grants)
@@ -91,7 +92,14 @@ Re-simulating with low metallicity (Z=0.0001), we discovered a halved main seque
 This was my final project in ASPH 305, Introduction to Astrophysics, at the University of Calgary. In this lab I used an 8 inch telescope and CCD camera to take data of Jupiter and stack into a final image and measure the diameter of Jupiter and Saturn.
 
 <!--![Bike Study](/assets/img/bike_study.jpeg)-->
-
+## Successful Observiong Probosals {#observing-proposals}
+- Co-I, Gemini North Observatory, 2.83 hours (2024)
+  - Project: "Seeing Stars! Measuring the dizzying spin of the Galactic globular cluster M5"
+  - Goal: To use the Gemini Near-InfraRead Spectrograph (GNIRS) to measure the rotational velocity of the globular cluster M5. This globular cluster was important to observe as a previouse paper reported it to have an abnoraly high spin rate, therfore by observing M5 with GNIRS we could confirm this measurment.
+- Co-I, Canada-France-Hawaii Telescope, 3 hours (2024)
+  - Project: “Searching for Globular Clusters in NGC 7332 & NGC 7339”
+  - Goal: To observe the galaxies NGC 7332 and NGC 7339 using WIRcam. With this new Ks band data and catalogue u and i band data from the Megacam instrument we could use the uiKs colour coluor plot method to identify globular clusters around NGC 7332 and NGC 7339. This was important because these galaxise are 35.2kpc apart from eachother therefore should be in the early stages of galactic interaction, therfore based on the distribution of the globular cluster we can determine if this is so. 
+ 
 ## Talks & Lectures {#talks-lectures}
 - Guest Speaker: Update on the Rothney Astrophysical Observatory  - Physics and Astrophysics Student Assosiation Reasearch Night, Nov 2024
 - Guest Lecture: Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - Rothney Astrophysical Observatory Space Night, May 2025

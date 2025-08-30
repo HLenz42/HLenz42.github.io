@@ -22,9 +22,11 @@
 
 ## Education {#education} 			        		
 - B.S., Astrophysics & Physics | University of Calgary (_Expected May 2026_)
+- Science Internship Program
+- Participated in the Maunakea Observatories Study Abroad Program (May 2024
 
 ### Relavent Courcework
-PHYS 599 Undergraduate Thesis Project, ASPH 401 Galactic Astrophysics, ASPH 403 Stellar Astrophysics, ASPH 503 High Energy Astrophysics, ASPH 509 Interstellar Medium, SCIE 507 Hawai'i Maunakea Observatories, PHYS 443/543 Quantum Mechanics 1/2, PHYS 457 Electromagnetic Theory 3, PHYS 449/451 Statistical Mechanics 1/2, PHYS 397/497 Experimental Physics 1/2.
+- Undergraduate Thesis Project, Galactic Astrophysics, Stellar Astrophysics, High Energy Astrophysics, Interstellar Medium, Hawai'i Maunakea Observatories, Quantum Mechanics 1/2, Electromagnetic Theory 1/2/3, Statistical Mechanics 1/2, Experimental Physics 1/2.
 
 #### Technical Skills: Python, Latex, Mira, Source-Extractor, Scamp, SWarp, Maxim DL, Microsoft suit
 #### Soft Skills: Critical thinking, Problem solving, Teamwork, Leadorship, Digital literacy, Public outreach
@@ -33,13 +35,16 @@ PHYS 599 Undergraduate Thesis Project, ASPH 401 Galactic Astrophysics, ASPH 403 
 - In this position I coordinate 100+ student volunteers from the Physics and Astronomy department at the University of Calgary to help out with outreach events at the Rothney Astrophysical Observatory. As part of the job I have to organize individuals coming to an event, give them tasks, organize carpools, and train new volunteers in telescope operation and public speaking.
 
 **Intern @ Rothney Astrophysical Observatory (_May 2024 - Aug 2025_)**
-- Telescope maintenance, fix telescope bugs
-- Public specking
-- Tacking Observations and scheduling
-- Public outreach and school programs
+- I have operated the 1.8m A.R. Cross Telescope (ARCT), 0.5m Kaylie Green Memorial Telescope (KGMT), and 0.4m Clark-Milone Telescope (CMT) to observe exoplanets, eclipsing binaries, galaxies, nebulas, super nova reminants, and more!
+- While operating telescpes I have found several bugs in there operation both softwere and mechanical related and have fixed the problems.
+- During the summer of 2024 partispated in dissasembling the KGMT in order to gain access to the camera for repair.
+- Developed Python-based data processing pipelines,to automate the reduction of photometric datasets and reduce analysis time [Variable Star Analysis Detection Pipeline](#variable-star-pipeline).
+- Gathered exoplanet transit data that verified published exoplanit transit parametsrs such as planet radiuse and impact parameter using the ARCT, KGMT, and CMT [Exoplanet Observations](#exoplanet-observations).
+- Developed observing scheduals for the RAO telescopes to optimise observation time.
+- Delivered public lectures on exoplanetary science, stellar evolution, galactic structure, globular clusters, galaxy interaction, and astrophotography to audiences of 150+ participants. I gave thes talks to audiances of all ages from grad 4 to high school to the general public.
 
 ## Research Experiance {#research-experience}
-### Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT {#globular-clusters-ngc}
+### Undergraduate Thesis Project - Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT {#globular-clusters-ngc}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/8/3048) -->
 
 The spatial distribution of globular clusters (GCs) in galactic halos offers critical insights into the formation and evolution of their host galaxies. We combine new CFHT/WIRCam Ks-band imaging with archival CFHT/MegaCam optical data to identify GCs around the giant lenticular galaxy NGC 7332 and its spiral companion NGC 7339 using a uiKs colour-colour diagram. Given their close proximity to each other (35.2kpc assuming a shared distance of 20.5Mpc), we investigate the potential gravitational interaction by analyzing the spatial and colour distributions of their GC systems. The Ks-band data was obtained with CFHT/WIRCam as part of a proposal written for an inaugural undergraduate international learning experience provided by the University of Calgary in Spring 2024, led by Dr. Langill and Dr. Taylor. As part of this program, twelve students participated in writing proposals for CFHT and Gemini North, visited each observatory’s base facilities, and toured the telescopes at the summit of Maunakea. The uiKs diagram is a powerful tool to separate GCs from background galaxies and foreground stars by their magnitude variations across three filters. Early results have identified 90 GC candidates orbiting NGC 7332 and NGC 7339, providing key insights into their potential interaction and evolutionary histories.
@@ -117,12 +122,13 @@ This was my final project in ASPH 305, Introduction to Astrophysics, at the Univ
 - **Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025** - I presented a power point on my undergraduate thesis project.
 
 ## Awards & Grants {#awards-grants}
-- **$2500 Alaxander Rutherford High School Achievement Scholarship**, Government of Alberta (2021)
+- **Kaylie Green Memorial Fund Scholarship**, Green Famiily (2024-2025)
+- **Alaxander Rutherford High School Achievement Scholarship**, Government of Alberta (2021)
 
 ## Volunteer Experiance {#volunteering}
-- Team Astro Member | University of Calgary (_Mar 2024 - Present_)
+- Team Astro Member | University of Calgary | (_Mar 2024 - Present_)
   - As a member of Team Astro I volunteer once a month at the Rothney Astrophysical Observatory where I have operated the A.R. Cross Telescope (ARCT), Kaylie Green Memorial Telescope (KGMT), and Clark-Milone Telescope (CMT) while informing the public about the objects we are observing, the instrumentation of the telescopes, and history of the observatory. I have helped guide goups of the public up to 400 people tour around the observatory. I am also one of two voulunter coordinators for Team Astro [Work Experience](#work-experience).
-- Open House | University of Calgary (_Oct 2024_)
+- Open House | University of Calgary | (_Oct 2024_)
   - During this even I was one of the volunteers at the Fabulty of Science booth during the Univerity of calgary open house. I taked to numorus future university students and informed them about our programs. 
   
 ## Working at the Rothney Astrophysical Observatory {#rothney-observatory}

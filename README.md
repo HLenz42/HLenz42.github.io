@@ -138,7 +138,7 @@ This was my final project in ASPH 305, Introduction to Astrophysics, at the Univ
 - **Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025** - I presented a power point on my undergraduate thesis project.
 
 ## Awards & Grants {#awards-grants}
-- **Kaylie Green Memorial Fund Scholarship**, Green Famiily (2024-2025)
+- **Kaylie Green Memorial Fund Scholarship**, Green Family (2024-2025)
 - **Alaxander Rutherford High School Achievement Scholarship**, Government of Alberta (2021)
 
 ## Volunteer Experiance {#volunteering}

@@ -1,5 +1,5 @@
 title: Heather Lenz
 logo: /assets/img/headshot.jpg # where image is located in github repo
 description: Hello! My name is Heather, and I’ve been working at the Rothney Astrophysical Observatory (RAO) for over a year. My primary focus has been using research telescopes to capture images of fascinating astronomical phenomena and observe exoplanet transits. I’m passionate about sharing the wonders of the universe and have contributed to numerous public outreach initiatives at the RAO, including programs for school groups of all ages, Space Nights, and Milky Way Nights.
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal

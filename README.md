@@ -93,6 +93,12 @@ As part of my Astrophysics 403 term project at the University of Calgary, I coll
 
 Re-simulating with low metallicity (Z=0.0001), we discovered a halved main sequence lifetime (4.3 billion years for helium flash) and a smoother HR diagram path without the switchback, with the second luminosity peak during helium burning 100 times brighter (10^7 L⊙) than the solar metallicity model. The low metallicity star exhibited more gradual density and temperature transitions between shells, with faster core hydrogen depletion and extended white dwarf cooling. These results deepened my expertise in stellar evolution modeling and data analysis, complementing my research with the Canada France Hawaii Telescope and internship at Rothney Astrophysical Observatory.
 
+![Star evolution high metalisity](/assets/img/ASPH403/HRdiagram2(1).png)
+*Our first MESA simulation of 1.1 M⊙ star with high metalisity.*
+
+![Star evolution low metalisity](/assets/img/ASPH403/HRdiagram2.png)
+*Star evolution of a 1.1 M⊙ star MESA simulation with lower metalisity showing a shorter time spent in the main sequence. This simulation showed a relatifly shorter time spent in the main sequence and the second luminosity peak during helim burning to be 100 times brighter.*
+
 ### WASP-12b Exoplanet Analysis {#wasp-12b-analysis}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
@@ -109,11 +115,7 @@ As part of my Astrophysics 307, Observational Astrophysis, group project at the 
 
 This project enhanced my expertise in spectral rectification, Gaussian fitting, and Doppler analysis, skills I directly applied during my internship at the RAO, where I operated telescopes and processed spectroscopic data for outreach and research. It also built foundational knowledge in handling wavelength shifts and absorption features, which informed the development of my variable star analysis detection pipeline by improving techniques for identifying variability in stellar spectra and light curves.
 
-![Star evolution high metalisity](/assets/img/ASPH403/HRdiagram2(1).png)
-*Our first MESA simulation of 1.1 M⊙ star with high metalisity.*
 
-![Star evolution low metalisity](/assets/img/ASPH403/HRdiagram2.png)
-*Star evolution of a 1.1 M⊙ star MESA simulation with lower metalisity showing a shorter time spent in the main sequence. This simulation showed a relatifly shorter time spent in the main sequence and the second luminosity peak during helim burning to be 100 times brighter.*
 
 
 

@@ -62,12 +62,18 @@ The spatial distribution of globular clusters (GCs) in galactic halos offers cri
 This was one of the projects I worked on as a Intern at the Rothney Astrophysical Observatory.
 
 
-![Star evolution high metalisity](/assets/img/var/star_timelapse_Wasp12b_star10017_differential_mag.mpg)
+
+
+<video controls width="100%" height="auto">
+  <source src="/assets/img/var/star_timelapse_Wasp12b_star10017_differential_mag.mp4" type="video/mp4">
+  Your browser does not support the video tag. [Download Video](/assets/img/var/star_timelapse_Wasp12b_star10017_differential_mag.mp4)
+</video>
+
+![Star evolution high metalisity](/assets/img/var/star_timelapse_Wasp12b_star10017_differential_mag.mp4)
 *Our first MESA simulation of 1.1 M⊙ star with high metalisity.*
-![Star evolution high metalisity](/assets/img/var/star_timelapse_Wasp12b_star10058_differential_mag.mpg)
+![Star evolution high metalisity](/assets/img/var/star_timelapse_Wasp12b_star10058_differential_mag.mp4)
 *Our first MESA simulation of 1.1 M⊙ star with high metalisity.*
-![Star evolution high metalisity](/assets/img/var/star_profile_star_10003_Wasp12b_MAG_AUTO_uw.png)
-*Our first MESA simulation of 1.1 M⊙ star with high metalisity.*
+
 
 ### SCIE 507: Hawai'i Maunakea Observatories 2024 {#maunakea-2024}
 

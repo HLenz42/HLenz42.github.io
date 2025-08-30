@@ -15,6 +15,7 @@
 - [Talks & Lectures](#talks-lectures)
 - [Conferences](#conferences)
 - [Awards & Grants](#awards-grants)
+- [Volunteer Experiance](#volunteering)
 - [Working at the Rothney Astrophysical Observatory](#rothney-observatory)
 
 
@@ -94,30 +95,36 @@ This was my final project in ASPH 305, Introduction to Astrophysics, at the Univ
 <!--![Bike Study](/assets/img/bike_study.jpeg)-->
 ## Successful Observiong Probosals {#observing-proposals}
 - Co-I, Gemini North Observatory, 2.83 hours (2024)
-  - Project: "Seeing Stars! Measuring the dizzying spin of the Galactic globular cluster M5"
-  - Goal: To use the Gemini Near-InfraRead Spectrograph (GNIRS) to measure the rotational velocity of the globular cluster M5. This globular cluster was important to observe as a previouse paper reported it to have an abnoraly high spin rate, therfore by observing M5 with GNIRS we could confirm this measurment.
+  - **Project:** "Seeing Stars! Measuring the dizzying spin of the Galactic globular cluster M5"
+  - **Goal:** To use the Gemini Near-InfraRead Spectrograph (GNIRS) to measure the rotational velocity of the globular cluster M5. This globular cluster was important to observe as a previouse paper reported it to have an abnoraly high spin rate, therfore by observing M5 with GNIRS we could confirm this measurment.
 - Co-I, Canada-France-Hawaii Telescope, 3 hours (2024)
-  - Project: “Searching for Globular Clusters in NGC 7332 & NGC 7339”
-  - Goal: To observe the galaxies NGC 7332 and NGC 7339 using WIRcam. With this new Ks band data and catalogue u and i band data from the Megacam instrument we could use the uiKs colour coluor plot method to identify globular clusters around NGC 7332 and NGC 7339. This was important because these galaxise are 35.2kpc apart from eachother therefore should be in the early stages of galactic interaction, therfore based on the distribution of the globular cluster we can determine if this is so. 
+  - **Project:** “Searching for Globular Clusters in NGC 7332 & NGC 7339”
+  - **Goal:** To observe the galaxies NGC 7332 and NGC 7339 using WIRcam. With this new Ks band data and catalogue u and i band data from the Megacam instrument we could use the uiKs colour coluor plot method to identify globular clusters around NGC 7332 and NGC 7339. This was important because these galaxise are 35.2kpc apart from eachother therefore should be in the early stages of galactic interaction, therfore based on the distribution of the globular cluster we can determine if this is so. 
  
 ## Talks & Lectures {#talks-lectures}
-- Guest Speaker: Update on the Rothney Astrophysical Observatory  - Physics and Astrophysics Student Assosiation Reasearch Night, Nov 2024
-- Guest Lecture: Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - Rothney Astrophysical Observatory Space Night, May 2025
-- Speaker: Globular Cluster Science - Rothney Astrophysical Observatory School Groups, 2024-2025
-- Poster :  Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - CFHT UM, June 2025
-- Poster Flash Talk:  Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - CASCA, June 2025
-- Guest Speaker: Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP), Febuary 2025
+- **Guest** Speaker: Update on the Rothney Astrophysical Observatory  - Physics and Astrophysics Student Assosiation Reasearch Night, Nov 2024
+- **Guest** Lecture: Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - Rothney Astrophysical Observatory Space Night, May 2025
+- **Speaker:** Globular Cluster Science - Rothney Astrophysical Observatory School Groups, 2024-2025
+- **Poster:**  Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - CFHT UM, June 2025
+- **Poster Flash Talk:**  Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - CASCA, June 2025
+- **Guest Speaker:** Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT - Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP), Febuary 2025
 
 <!--- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)-->
 
 ## Confrences {#conferences}
-- CASCA 2025 - Presended a poster on my undergraduate thesis project, I also had the opportunity to do a poster flash talk. <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
-- CFHT Users Meeting 2025 - Presended a poster on my undergraduate thesis project <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
-- Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025 - I presented a power point on my undergraduate thesis project.
+- **CASCA 2025** - Presended a poster on my undergraduate thesis project, I also had the opportunity to do a poster flash talk. <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
+- **CFHT Users Meeting 2025** - Presended a poster on my undergraduate thesis project <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
+- **Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025** - I presented a power point on my undergraduate thesis project.
 
 ## Awards & Grants {#awards-grants}
-- 2021 Alaxander Rutherford Grant $2500
+- **$2500 Alaxander Rutherford High School Achievement Scholarship**, Government of Alberta (2021)
 
+## Volunteer Experiance {#volunteering}
+- Team Astro Member | University of Calgary | Rothney Astrophysical Observatory (_Mar 2024 - Present_)
+  - As a member of Team Astro I volunteer once a month at the Rothney Astrophysical Observatory where I have operated the A.R. Cross Telescope (ARCT), Kaylie Green Memorial Telescope (KGMT), and Clark-Milone Telescope (CMT) while informing the public about the objects we are observing, the instrumentation of the telescopes, and history of the observatory. I have helped guide goups of the public up to 400 people tour around the observatory. I am also one of two voulunter coordinators for Team Astro [Work Experience](#work-experience).
+- Open House | University of Calgary | Faculty of Science (_Oct 2024_)
+  - During this even I was one of the volunteers at the Fabulty of Science booth during the Univerity of calgary open house. I taked to numorus future university students and informed them about our programs. 
+  
 ## Working at the Rothney Astrophysical Observatory {#rothney-observatory}
 ![Instructing a group of students](/assets/img/grade9_activity.jpg)
 *A example of one of our activities done with the school groups that come to the RAO. This is our Grade 9 parralax activity where we have two levels and get students to measure a distant object.*

@@ -1,4 +1,5 @@
 title: Heather Lenz
-logo: /assets/img/headshot.jpg # where image is located in github repo
-description: Hello! I am Heather Lenz, a fourth-year B.Sc. student in Astrophysics and Physics at the University of Calgary (expected graduation: May 2026). At the Rothney Astrophysical Observatory (RAO), I have operated telescopes (CMT, ARCT, KGMT) to observe exoplanet transits and developed a Python-based pipeline for variable star detection. My research includes studying globular clusters with CFHT data and modeling stellar evolution with MESA. Passionate about astronomical instrumentation, I aim to pursue a masters degree to advance telescope design and data analysis. I also lead RAO outreach, coordinating 100+ volunteers and delivering lectures for diverse audiences.
+logo: /assets/img/headshot.jpg
+description: "Fourth-year B.Sc. student in Astrophysics and Physics at the University of Calgary, with experience in telescope operation, Python-based variable star detection, and globular cluster research at the Rothney Astrophysical Observatory and CFHT. Passionate about astronomical instrumentation and pursuing a master's degree."
 theme: jekyll-theme-minimal
+show_downloads: false

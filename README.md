@@ -176,7 +176,7 @@ This lab sharpened my skills in telescope operation, image processing with Regis
 ![Me CASCA 2025 presenting my poster](/assets/img/atCASCA.jpg)
 *Me CASCA 2025 presenting my poster.*
 
-![Me giveing a talk at space night](/assets/img/meATSPACE .jpg)
+![Me giveing a talk at space night](/assets/img/atspacenight.jpg)
 *Me giveing a talk at space night*
 
 ## Awards & Grants {#awards-grants}

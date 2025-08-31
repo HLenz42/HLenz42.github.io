@@ -59,7 +59,7 @@ Veiw my [Final Physics 599 Report](/assets/img/Phys599_FinalReport_HLenz(2).pdf)
 ![NGC 7332 & NGC 7339 With Found Globular Clusters](/assets/img/NGC7332-7339withgc.png)
 *Image of NGC 7332 (right) and NGC 7339 (left) with 139 newly identified globular clusters.*
 
-*This project had three goals:*
+**This project had three goals:**
 1. Identify globular clusters (GCs) based on their magnitude in u, i, and 𝐾𝑠 filters using a 𝑢𝑖𝐾𝑠 colour-colour diagram. With new 𝐾_𝑠-band data this method of GC detection is now possible
 2. Determine host galaxy interactions the spatial distribution of GCs can indicate weather these two galaxies are in the early stages of galactic interaction.
 3. Study galactic history from the bimodal blue-red colour distribution of GCs.
@@ -78,10 +78,11 @@ The globular clusters were selected from the central region of the ui𝐾𝑠 as
 To test whether the observed globular cluster distribution is the results from overlap of two globular cluster systems or gravitational interaction random globular cluster distributions were generated based on observed distances of globular clusters. The figure above shows that the random generated distribution produced a relatively even globular cluster density, while the observed data shows a central concentration. A Kolmogorov-Smirnov test confirms a statistically significant (p=1.7 × 10^-4) difference between the distributions, supporting the case for non-random structure and possible interaction.
 
 ![uiKs diagram used to idetifiy globular clusters](/assets/img/histogram.png)
+
 *u-Ks histogram reveals a blue-red globular cluster bimodality with more red globular clusters suggesting these galaxies formed though mergers with fewer larger galaxies rather than many smaller galaxies. Note that after study of distribution of red and blue globular clusters no meniful pattern was found from either globular cluster type mainly being around either galaxie, it was an even distribution.*
 
-*Conclusions for my three goals:*
-1. Using a 𝑢𝑖𝐾𝑠  colour–colour diagram, I have identified 139 GC candidates surrounding NGC 7332 and NGC 7339. This method combines near-UV (𝑢), optical (𝑖), and near-infrared (𝐾_𝑠) photometry to effectively isolate globular clusters in colour space. Although the candidates match expected photometric and structural properties of globular clusters, spectroscopic confirmation is needed to verify their identities and association with their host galaxies.
+**Conclusions for my three goals:**
+1. Using a 𝑢𝑖𝐾𝑠  colour–colour diagram, I have identified 139 GC candidates surrounding NGC 7332 and NGC 7339. This method combines near-UV (𝑢), optical (𝑖), and near-infrared (𝐾𝑠) photometry to effectively isolate globular clusters in colour space. Although the candidates match expected photometric and structural properties of globular clusters, spectroscopic confirmation is needed to verify their identities and association with their host galaxies.
 2. A Kolmogorov-Smirnov (KS) test comparing the cumulative radial distributions of observed and randomly generated globular cluster positions. The resulting p-value (p=1.7×10^(−4)) indicates a statistically significant difference, this rejects the null hypothesis that the observed distribution is random. This supports the presence of a non-random spatial structure, which is consistent with gravitational interaction between NGC 7332 and NGC 7339.
 3. The u-Ks colour histogram of the identified globular clusters shows a larger population of red globular clusters indicating that these two galaxies were formed by though mergers with fewer larger galaxies rather than many smaller galaxies.
 
@@ -98,7 +99,7 @@ The videos embeded below show a timelaps of two stars as analised by my script. 
   <source src="/assets/img/var/star_timelapse_Wasp12b_star10017_differential_mag.mp4" type="video/mp4">
   Your browser does not support the video tag. [Download Video](/assets/img/var/star_timelapse_Wasp12b_star10017_differential_mag.mp4)
 </video>
-*Differential light curve timelaps for WASP-12b found by my code.*
+*Differential light curve timelaps for the exoplanet WASP-12b found by my code.*
 <video controls width="100%" height="auto">
   <source src="/assets/img/var/star_timelapse_Wasp12b_star10058_differential_mag.mp4" type="video/mp4">
   Your browser does not support the video tag. [Download Video](/assets/img/var/star_timelapse_Wasp12b_star10058_differential_mag.mp4)
@@ -116,7 +117,7 @@ This was a inagral global learning class at the University of Calgary set up by 
 
 
 ![Me at the Gemini North Telescope](/assets/img/atGEMINI.jpg)
-*Me at the Gemini North Telescope.*
+*Getting a tour of the Gemini North Telescope at the summit of Maunakea.*
 
 ### Exoplanet Observations {#exoplanet-observations} 
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->

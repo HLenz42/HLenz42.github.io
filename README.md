@@ -126,6 +126,12 @@ During my internship at the Rothney Astrophysical Observatory (RAO), I collabora
 
 These observations built on my prior coursework in Astrophysics 307, where I analyzed WASP-12b transits, refining my skills in telescope coordination, real-time data acquisition, and multi-instrument synchronization. At RAO, this experience directly informed my work on outreach programs and contributed to the adaptation of my variable star analysis detection pipeline, incorporating transit detection algorithms for identifying periodic variability in exoplanet host stars and improving automated photometry for time-series datasets.
 
+![cmt webcams](/assets/img/cmt_webcam.png)
+*Screenshot of the webcams for the Clark-Milone Telescope at the Rothney Astrophysical Observatory in operation collecting exoplanet data.*
+
+![example of a exoplanet target found using swarthmore](/assets/img/swarthmore_target.png)
+*Screenshot of a example exoplanet target found using swarthmore then observed with the ARCT and CMT.*
+
 ### Stellar Evolution Laboratory {#stellar-evolution-lab}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 

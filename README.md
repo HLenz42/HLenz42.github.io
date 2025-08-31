@@ -1,4 +1,4 @@
-# Astrophysics Undergraduate Student
+<img width="13993" height="158" alt="image" src="https://github.com/user-attachments/assets/fdeff730-d00c-4476-a92d-8e01e9f1a86a" /><img width="14315" height="158" alt="image" src="https://github.com/user-attachments/assets/7bbe373f-5aec-403b-8781-b6c72e2564f9" /><img width="15859" height="158" alt="image" src="https://github.com/user-attachments/assets/26a3bb81-16fd-485c-89db-27dd6428f423" /># Astrophysics Undergraduate Student
 
 ## Table of Contents
 - [Education](#education)
@@ -24,13 +24,14 @@
 ## Education {#education} 			        		
 - B.S., Astrophysics & Physics | University of Calgary (_Expected May 2026_)
 - Science Internship Program
-- Participated in the Maunakea Observatories Study Abroad Program (May 2024
+- Participated in the inagral Maunakea Observatories Study Abroad Program (May 2024)
 
 ### Relavent Courcework
 - Undergraduate Thesis Project, Galactic Astrophysics, Stellar Astrophysics, High Energy Astrophysics, Interstellar Medium, Hawai'i Maunakea Observatories, Quantum Mechanics 1/2, Electromagnetic Theory 1/2/3, Statistical Mechanics 1/2, Experimental Physics 1/2.
 
 #### Technical Skills: Python, Latex, Mira, Source-Extractor, Scamp, SWarp, Maxim DL, Microsoft suit
 #### Soft Skills: Critical thinking, Problem solving, Teamwork, Leadorship, Digital literacy, Public outreach
+
 ## Work Experience {#work-experience}
 **Coordinator of Volunteers @ Rothney Astrophysical Observatory (_Aug 2024 - Present_)**
 - In this position I coordinate 100+ student volunteers from the Physics and Astronomy department at the University of Calgary to help out with outreach events at the Rothney Astrophysical Observatory. As part of the job I have to organize individuals coming to an event, give them tasks, organize carpools, and train new volunteers in telescope operation and public speaking.
@@ -48,23 +49,42 @@
 ### Undergraduate Thesis Project - Searching For Globular Clusters in NGC 7332 and NGC 7339 using CFHT {#globular-clusters-ngc}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/8/3048) -->
 
+**Supervisors:** Dr. Matthew Taylor and Dr. Phil Langill
+
+**Abstract:**
 The spatial distribution of globular clusters (GCs) in galactic halos offers critical insights into the formation and evolution of their host galaxies. We combine new CFHT/WIRCam Ks-band imaging with archival CFHT/MegaCam optical data to identify GCs around the giant lenticular galaxy NGC 7332 and its spiral companion NGC 7339 using a uiKs colour-colour diagram. Given their close proximity to each other (35.2kpc assuming a shared distance of 20.5Mpc), we investigate the potential gravitational interaction by analyzing the spatial and colour distributions of their GC systems. The Ks-band data was obtained with CFHT/WIRCam as part of a proposal written for an inaugural undergraduate international learning experience provided by the University of Calgary in Spring 2024, led by Dr. Langill and Dr. Taylor. As part of this program, twelve students participated in writing proposals for CFHT and Gemini North, visited each observatory’s base facilities, and toured the telescopes at the summit of Maunakea. The uiKs diagram is a powerful tool to separate GCs from background galaxies and foreground stars by their magnitude variations across three filters. Early results have identified 90 GC candidates orbiting NGC 7332 and NGC 7339, providing key insights into their potential interaction and evolutionary histories.
 
 Veiw my [Final Physics 599 Report](/assets/img/Phys599_FinalReport_HLenz(2).pdf) note that after I finished this class in the fall 2024 semester I continued work on the project during my internsip and eventualy impoved my analysis of the data to find more concreet results as presented in <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">my poster</a> I presented at CASCA 2025 and the CFHT users meeting 2025. 
 
 ![NGC 7332 & NGC 7339 With Found Globular Clusters](/assets/img/NGC7332-7339withgc.png)
-*Image of NGC 7332 and NGC 7339 with 139 newly identified globular clusters.*
+*Image of NGC 7332 (right) and NGC 7339 (left) with 139 newly identified globular clusters.*
+
+*This project had three goals:*
+1. Identify globular clusters (GCs) based on their magnitude in u, i, and 𝐾𝑠 filters using a 𝑢𝑖𝐾𝑠 colour-colour diagram. With new 𝐾_𝑠-band data this method of GC detection is now possible
+2. Determine host galaxy interactions the spatial distribution of GCs can indicate weather these two galaxies are in the early stages of galactic interaction.
+3. Study galactic history from the bimodal blue-red colour distribution of GCs.
+
+These galaxies were chosen because they are edge on, close proximity (35.2kpc) to each other, and had catalogue data for the in u, and i filters observed by MegaCam/CFHT but no 𝐾𝑠 data. A proposal was written to CFHT for WIRCam to observe these galaxies in the 𝐾𝑠-band as part of an inaugural undergraduate international learning experience lead by Dr. Langill and Dr. Taylor in May 2024
+
 
 ![uiKs diagram used to idetifiy globular clusters](/assets/img/uiks_cc_diagram_w_labbles.png)
-*uiKs coulour colour diagram used to identify globular clusters by usilizing near ultraviolet, optical, and near infaread photometry.*
-<!--![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)-->
+*The 𝑢𝑖𝐾𝑠 colour-colour diagram characterizing objects using magnitude measurements of sources around NGC 7332 and NGC 7339 in near ultraviolet (u), optical (i), and near infaread (Ks). Using the normalized colours (𝑢−𝑖)_0  and (𝑖−𝐾𝑠)_0  GCs can be separated a method first used in 2014 by Dr. Muñoz* 
 
-![uiKs diagram used to idetifiy globular clusters](/assets/img/distributions_and_ptest.png)
+The globular clusters were selected from the central region of the ui𝐾𝑠 as seen in the figure aboce. Candidates were then filtered using photometric measurements made by Source Extractor such as, magnitude, flux radius, and ellipticity. Image cutouts of the globular clusters were made to confirm GC-like appearance and proximity to its host galaxy (within 5 effective radii) in order for them to be considered gravitationaly bound.  
+
+![distribution study of globular clusters](/assets/img/distributions_and_ptest.png)
 *The observed distribution of globular clusters versus a randome distribution of globular clusters around NGC 7332 and NGC 7339 compaired using the kolmogorov smirnov test to show a p value of 1.7 × 10^-4.*
 
+To test whether the observed globular cluster distribution is the results from overlap of two globular cluster systems or gravitational interaction random globular cluster distributions were generated based on observed distances of globular clusters. The figure above shows that the random generated distribution produced a relatively even globular cluster density, while the observed data shows a central concentration. A Kolmogorov-Smirnov test confirms a statistically significant (p=1.7 × 10^-4) difference between the distributions, supporting the case for non-random structure and possible interaction.
 
 ![uiKs diagram used to idetifiy globular clusters](/assets/img/histogram.png)
-*u-Ks histogram reveals a blue-red GC bimodality with more red globular clusters suggesting these calagis formed though mergers with fewer, larger galaxies rather than many smaller galaxies.*
+*u-Ks histogram reveals a blue-red globular cluster bimodality with more red globular clusters suggesting these galaxies formed though mergers with fewer larger galaxies rather than many smaller galaxies. Note that after study of distribution of red and blue globular clusters no meniful pattern was found from either globular cluster type mainly being around either galaxie, it was an even distribution.*
+
+*Conclusions for my three goals:*
+1. Using a 𝑢𝑖𝐾𝑠  colour–colour diagram, I have identified 139 GC candidates surrounding NGC 7332 and NGC 7339. This method combines near-UV (𝑢), optical (𝑖), and near-infrared (𝐾_𝑠) photometry to effectively isolate globular clusters in colour space. Although the candidates match expected photometric and structural properties of globular clusters, spectroscopic confirmation is needed to verify their identities and association with their host galaxies.
+2. A Kolmogorov-Smirnov (KS) test comparing the cumulative radial distributions of observed and randomly generated globular cluster positions. The resulting p-value (p=1.7×10^(−4)) indicates a statistically significant difference, this rejects the null hypothesis that the observed distribution is random. This supports the presence of a non-random spatial structure, which is consistent with gravitational interaction between NGC 7332 and NGC 7339.
+3. The u-Ks colour histogram of the identified globular clusters shows a larger population of red globular clusters indicating that these two galaxies were formed by though mergers with fewer larger galaxies rather than many smaller galaxies.
+
 
 ### Variable Star Analysis Pipeline {#variable-star-pipeline}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->

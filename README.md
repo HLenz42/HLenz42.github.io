@@ -50,7 +50,7 @@
 
 The spatial distribution of globular clusters (GCs) in galactic halos offers critical insights into the formation and evolution of their host galaxies. We combine new CFHT/WIRCam Ks-band imaging with archival CFHT/MegaCam optical data to identify GCs around the giant lenticular galaxy NGC 7332 and its spiral companion NGC 7339 using a uiKs colour-colour diagram. Given their close proximity to each other (35.2kpc assuming a shared distance of 20.5Mpc), we investigate the potential gravitational interaction by analyzing the spatial and colour distributions of their GC systems. The Ks-band data was obtained with CFHT/WIRCam as part of a proposal written for an inaugural undergraduate international learning experience provided by the University of Calgary in Spring 2024, led by Dr. Langill and Dr. Taylor. As part of this program, twelve students participated in writing proposals for CFHT and Gemini North, visited each observatory’s base facilities, and toured the telescopes at the summit of Maunakea. The uiKs diagram is a powerful tool to separate GCs from background galaxies and foreground stars by their magnitude variations across three filters. Early results have identified 90 GC candidates orbiting NGC 7332 and NGC 7339, providing key insights into their potential interaction and evolutionary histories.
 
-[Final Report](/assets/img/Phys599_FinalReport_HLenz(2).pdf)
+Veiw my [Final Physics 599 Report](/assets/img/Phys599_FinalReport_HLenz(2).pdf) note that after I finished this class in the fall 2024 semester I continued work on the project during my internsip and eventualy impoved my analysis of the data to find more concreet results as presented in <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">my poster</a> I presented at CASCA 2025 and the CFHT users meeting 2025. 
 
 ![NGC 7332 & NGC 7339 With Found Globular Clusters](/assets/img/NGC7332-7339withgc.png)
 *Image of NGC 7332 and NGC 7339 with 139 newly identified globular clusters.*
@@ -64,19 +64,23 @@ The spatial distribution of globular clusters (GCs) in galactic halos offers cri
 
 As a major project during my internship at the Rothney Astrophysical Observatory (RAO), I developed a Python-based pipeline for detecting variable stars from raw astronomical images. The code automates the entire process: starting with input raw images, darks, biases, and flats, it performs bias, dark, and flat corrections. It then uploads the corrected images to astrometry.net to obtain World Coordinate System (WCS) information, followed by running Source Extractor for photometry to generate catalogs. A tracking script automatically follows stars across the image set, producing check plots for verification. The pipeline queries SIMBAD for star classifications, flagging known variables, and performs differential photometry by selecting a user-specified number of nearby non-variable comparison stars. It iteratively detects new variables from the initial photometry run, flags them, and reruns differential photometry to refine results, ensuring comparison stars are stable. Finally, it generates detailed plots and analysis logs highlighting potential new variable stars in the field. I adapted this pipeline to handle data from all RAO telescopes, including the CMT, ARCT, and KGMT.
 
-This project significantly enhanced my programming skills in Python, image processing, and astronomical data analysis. At RAO, I applied it to real telescope data, improving efficiency in variable star detection for outreach and research. It also integrated techniques from my globular cluster research with the Canada France Hawaii Telescope, such as photometry using [Source Extractor]([https://www.mdpi.com/1424-8220/22/11/4240](https://www.astromatic.net/software/sextractor/)) and tracking, preparing me for graduate-level work in stellar variability and time-series analysis with large data sets in python.
+This project significantly enhanced my programming skills in Python, image processing, and astronomical data analysis. At RAO, I applied it to real telescope data, improving efficiency in variable star detection for outreach and research. It also integrated techniques from my globular cluster research with the Canada France Hawaii Telescope, such as photometry using Source Extractor and tracking, preparing me for graduate-level work in stellar variability and time-series analysis with large data sets in python.
 
-
+The videos embeded below show a timelaps of two stars as analised by my script. The first video show the exoplanet curve for WASP-12b an exoplanet transit observed many times at the RAO with the KGMT, the second video shows the timelaps for one of the comparison stars used in the differential phtometry of WASP-12b.
 <video controls width="100%" height="auto">
   <source src="/assets/img/var/star_timelapse_Wasp12b_star10017_differential_mag.mp4" type="video/mp4">
   Your browser does not support the video tag. [Download Video](/assets/img/var/star_timelapse_Wasp12b_star10017_differential_mag.mp4)
 </video>
-*Differential light curve for WASP-12b found by my code.*
+*Differential light curve timelaps for WASP-12b found by my code.*
 <video controls width="100%" height="auto">
   <source src="/assets/img/var/star_timelapse_Wasp12b_star10058_differential_mag.mp4" type="video/mp4">
   Your browser does not support the video tag. [Download Video](/assets/img/var/star_timelapse_Wasp12b_star10058_differential_mag.mp4)
 </video>
-*Differential light curve for a non variable star found by my code.*
+*Differential light curve timelaps for a non variable star found by my code.*
+After more data cleaning and detrending I created the the fallowing as my final processed light curve for WASP-12b.
+
+![final processed light curve for WASP-12b](/assets/img/NGC7332-7339withgc.png)
+*The final processed light curve for WASP-12b as generated by my variable star analysis code.*
 
 ### SCIE 507: Hawai'i Maunakea Observatories 2024 {#maunakea-2024}
 
@@ -85,8 +89,9 @@ This was a inagral global learning class at the University of Calgary set up by 
 ### Exoplanet Observations {#exoplanet-observations} 
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
-This was one of the projects I worked on as a Intern at the Rothney Astrophysical Observatory. I was assisting a fellow student in collecting data for ∼40 Exoplanets with the Clark-Milone Telescope, A.R. Cross Telescope and the Plaskett Telescope.
+During my internship at the Rothney Astrophysical Observatory (RAO), I collaborated with another intern to observe over 50 exoplanet transits, often coordinating multiple telescopes, including the CMT, ARCT, KGMT, and Plaskett to simultaneously target the same transit event in diffrent filters. This multi-telescope approach allowed us to capture high-quality light curves by pointing all instruments at a single exoplanet target, mitigating issues such as weather or instrumental variability while maximizing signal-to-noise ratios. I personally collected exoplanet data using the CMT, ARCT, and KGMT telescopes, focusing on transit photometry to measure planetary parameters such as radius, orbital period, and impact parameter. 
 
+These observations built on my prior coursework in Astrophysics 307, where I analyzed WASP-12b transits, refining my skills in telescope coordination, real-time data acquisition, and multi-instrument synchronization. At RAO, this experience directly informed my work on outreach programs and contributed to the adaptation of my variable star analysis detection pipeline, incorporating transit detection algorithms for identifying periodic variability in exoplanet host stars and improving automated photometry for time-series datasets.
 
 ### Stellar Evolution Laboratory {#stellar-evolution-lab}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->

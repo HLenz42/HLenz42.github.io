@@ -180,7 +180,11 @@ This lab sharpened my skills in telescope operation, image processing with Regis
 - Team Astro Member | University of Calgary | (_Mar 2024 - Present_)
   - As a member of Team Astro I volunteer once a month at the Rothney Astrophysical Observatory where I have operated the A.R. Cross Telescope (ARCT), Kaylie Green Memorial Telescope (KGMT), and Clark-Milone Telescope (CMT) while informing the public about the objects we are observing, the instrumentation of the telescopes, and history of the observatory. I have helped guide goups of the public up to 400 people tour around the observatory. I am also one of two voulunter coordinators for Team Astro [Work Experience](#work-experience).
 - Open House | University of Calgary | (_Oct 2024_)
-  - During this even I was one of the volunteers at the Fabulty of Science booth during the Univerity of calgary open house. I taked to numorus future university students and informed them about our programs. 
+  - During this even I was one of the volunteers at the Fabulty of Science booth during the Univerity of calgary open house. I talked to numorus future university students and informed them about our programs.
+- Earth Sciences Fair | University of Calgary | (_Mar 2025_)
+  - During this even I was one of the volunteers at the Rothney Astrophysical Observatory booth during the Univerity of calgary Earth Sciences Fair.
+- Observing night | Maunakea Observatories | (_May 2024_)
+  - During this even I was one of the volunteers at the Rothney Astrophysical Observatory booth during the Univerity of calgary Earth Sciences Fair. 
   
 ## Working at the Rothney Astrophysical Observatory {#rothney-observatory}
 ![Instructing a group of students](/assets/img/grade9_activity.jpg)

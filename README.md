@@ -94,6 +94,10 @@ After more data cleaning and detrending I created the the fallowing as my final 
 
 This was a inagral global learning class at the University of Calgary set up by two amazing proffesors Dr. Langill and Dr. Taylor. During this class we simulated what it is like to be a proffesional astrophysisit, we came up with a research idea, wrote proposals to both the Canada France Hawaii Telescope (CFHT) and Gemini North Telescope, and recived data back. Before we went on the trip we desided a good project for CFHT would be to observe NGC 7332 and NGC 7339 in the Ks band with WIRcam such that we could identify globular clusters, for Gemini we proposed to look at a globular cluster, M5, that has been reported to be rotating at an abnormaly fast rate, utilizing the GENRES instrument we wanted to confirm theese results. After submiting these proposals and getting time on both telescopes, 12 students and 2 proffessors went to the big island of Hawai'i. While at Hawai'i we toured the base facilities of both CFHT and Gemini and talked to the people working there who told us about the operation of the telecopes and the diffrent instruments used. We were lucky to be at both base facilites at night to see the telescopes in action and the variouse programs and procedurse used to control them. We were then even more luck to visit the telescopes at the sumit where we recived tours and talked to the Enginers currently working there, which was a truly incredible experiance. Unfortently Gemini was not able to collect data for us. When recived the data back from CFHT we started reducing it as a group, however we ran out of time in the semester. This is when I asked my supervisors to continue this work as my undergraduate thesis project, using new WIRcam Ks band CFHT data along with cataloge CFHT MegaCam data. 
 
+
+![Me at the Gemini North Telescope](/assets/img/atGEMINI.jpg)
+*Me at the Gemini North Telescope.*
+
 ### Exoplanet Observations {#exoplanet-observations} 
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
@@ -131,19 +135,12 @@ As part of my Astrophysics 307, Observational Astrophysis, group project at the 
 This project enhanced my expertise in spectral rectification, Gaussian fitting, and Doppler analysis, skills I directly applied during my internship at the RAO, where I operated telescopes and processed spectroscopic data for outreach and research. It also built foundational knowledge in handling wavelength shifts and absorption features, which informed the development of my variable star analysis detection pipeline by improving techniques for identifying variability in stellar spectra and light curves.
 
 
-
-
-
-
 ### Jupiter Size Measurement Laboratory {#observing-lab}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
 As part of my Astrophysics 305 lab at the University of Calgary, I collaborated with fellow students to measure the physical size of Jupiter and its atmospheric bands using ground-based observations. On October 3, 2022, we used a Celestron 8-inch telescope with a Neximage 5 CCD camera on the University of Calgary campus, capturing AVI videos under clear skies. After processing images in Registax 6.1 (stacking 55% of frames, applying wavelet transforms, and RGB balancing), we analyzed them in SAOImage to determine pixel sizes, calculating Jupiter's angular diameter (43.9") and physical diameter (1.26 × 10^8 m, close to the actual 1.43 × 10^8 m). We also measured the upper band's size (9.22 × 10^6 m), lower band's size (9.88 × 10^6 m), and distance between bands (3.18 × 10^7 m), with errors (1.09 × 10^6 m) derived from Gaussian FWHM analysis, noting discrepancies possibly due to atmospheric seeing or instrumental factors. 
 
 This lab sharpened my skills in telescope operation, image processing with Registax and SAOImage, and trigonometric calculations for angular measurements, which I directly applied during my internship at the Rothney Astrophysical Observatory (RAO), where I handled similar CCD imaging and data reduction for planetary and stellar observations. It also provided foundational experience in analyzing variable features like planetary bands, influencing the development of my variable star analysis detection pipeline by improving techniques for frame stacking, noise reduction, and precise photometric measurements in dynamic astronomical datasets.
-
-
-
 
 
 <!--![Bike Study](/assets/img/bike_study.jpeg)-->
@@ -171,6 +168,9 @@ This lab sharpened my skills in telescope operation, image processing with Regis
 - **CASTOR Small Teams Meeting 2025** - I was allowed to sit in on this meeting as I have been very intrested in the CASTOR porject.
 - **Graduate Student Wrokshop CASCA 2025** - 
 - **Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025** - I presented a power point on my undergraduate thesis project.
+
+![Me CASCA 2025 presenting my poster](/assets/img/atCASCA.jpg)
+*Me CASCA 2025 presenting my poster.*
 
 ## Awards & Grants {#awards-grants}
 - **Kaylie Green Memorial Fund Scholarship**, Green Family (2024-2025)

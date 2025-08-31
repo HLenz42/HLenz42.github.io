@@ -134,6 +134,8 @@ As part of my Astrophysics 307, Observational Astrophysis, group project at the 
 
 This project enhanced my expertise in spectral rectification, Gaussian fitting, and Doppler analysis, skills I directly applied during my internship at the RAO, where I operated telescopes and processed spectroscopic data for outreach and research. It also built foundational knowledge in handling wavelength shifts and absorption features, which informed the development of my variable star analysis detection pipeline by improving techniques for identifying variability in stellar spectra and light curves.
 
+![comparison of two spectra](/assets/img/comparison_spectra.png)
+*Comparison of rectified spectral profiles of 34-β Gem (top) and 34-α Ser (bottom)*
 
 ### Jupiter Size Measurement Laboratory {#observing-lab}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
@@ -142,6 +144,8 @@ As part of my Astrophysics 305 lab at the University of Calgary, I collaborated 
 
 This lab sharpened my skills in telescope operation, image processing with Registax and SAOImage, and trigonometric calculations for angular measurements, which I directly applied during my internship at the Rothney Astrophysical Observatory (RAO), where I handled similar CCD imaging and data reduction for planetary and stellar observations. It also provided foundational experience in analyzing variable features like planetary bands, influencing the development of my variable star analysis detection pipeline by improving techniques for frame stacking, noise reduction, and precise photometric measurements in dynamic astronomical datasets.
 
+![jupiter_zoom_in](/assets/img/jupiter_zoom_in.png)
+*Zoom in of jupiter to measure its diameter.*
 
 <!--![Bike Study](/assets/img/bike_study.jpeg)-->
 ## Successful Observing Proposals {#observing-proposals}

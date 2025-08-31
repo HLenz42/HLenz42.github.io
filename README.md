@@ -176,6 +176,9 @@ This lab sharpened my skills in telescope operation, image processing with Regis
 ![Me CASCA 2025 presenting my poster](/assets/img/atCASCA.jpg)
 *Me CASCA 2025 presenting my poster.*
 
+![Me giveing a talk at space night](/assets/img/meATSPACE.jpg)
+*Me giveing a talk at space night*
+
 ## Awards & Grants {#awards-grants}
 - **Kaylie Green Memorial Fund Scholarship**, Green Family (2024-2025)
 - **Alaxander Rutherford High School Achievement Scholarship**, Government of Alberta (2021)

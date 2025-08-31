@@ -17,7 +17,8 @@
 - [Conferences](#conferences)
 - [Awards & Grants](#awards-grants)
 - [Volunteer Experiance](#volunteering)
-- [Working at the Rothney Astrophysical Observatory](#rothney-observatory)
+- [Astrophotography at the Rothney Astrophysical Observatory](#rothney-observatory-photography)
+
 
 
 
@@ -197,7 +198,7 @@ This lab sharpened my skills in telescope operation, image processing with Regis
 - **CASCA 2025** - Presended a poster on my undergraduate thesis project, I also had the opportunity to do a poster flash talk. <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
 - **CFHT Users Meeting 2025** - Presended a poster on my undergraduate thesis project <a href="/assets/img/HLenz-CASCAPoster.pdf" type="application/pdf" target="_blank">View my poster</a>
 - **CASTOR Small Teams Meeting 2025** - I was allowed to sit in on this meeting as I have been very intrested in the CASTOR porject.
-- **Graduate Student Wrokshop CASCA 2025** - 
+- **Graduate Student Wrokshop CASCA 2025** - This meeting was heald just before CASCA 2025 where graduate students from accross the country were working together and sharing variouse helpful insights. 
 - **Canadian Conference for Undergraduate Women and Gender Minorities in Physics (CCUW*iP) 2025** - I presented a power point on my undergraduate thesis project.
 
 ![Me CASCA 2025 presenting my poster](/assets/img/atCASCA.jpg)
@@ -220,9 +221,8 @@ This lab sharpened my skills in telescope operation, image processing with Regis
 - Observing night | Maunakea Observatories | (_May 2024_)
   - During this even I was one of the volunteers at the Rothney Astrophysical Observatory booth during the Univerity of calgary Earth Sciences Fair. 
   
-## Working at the Rothney Astrophysical Observatory {#rothney-observatory}
-![Instructing a group of students](/assets/img/grade9_activity.jpg)
-*A example of one of our activities done with the school groups that come to the RAO. This is our Grade 9 parralax activity where we have two levels and get students to measure a distant object.*
+## Astrophotography at the Rothney Astrophysical Observatory {#rothney-observatory-photography}
+
 
 <!---## Publications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446

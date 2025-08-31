@@ -207,7 +207,7 @@ This lab sharpened my skills in telescope operation, image processing with Regis
   - During this event, I volunteered at an observing night organized by the Maunakea Observatories, assisting with public engagement and telescope operations.
 
 ## Astrophotography at the Rothney Astrophysical Observatory {#rothney-observatory-photography}
-Below are some of my best astrophotography images created from data I collected with the **Kaylie Green Memorial Telescope (KGMT)** and **Clark-Milone Telescope (CMT)**.
+Below are some of my best astrophotography images created from data I collected with the Kaylie Green Memorial Telescope (KGMT) and Clark-Milone Telescope (CMT).
 
 ![Bubble Nebula - CMT](/assets/img/astro/Bubble_Stacked_GraXpert.png)
 *NGC 7635 - Bubble Nebula - CMT*

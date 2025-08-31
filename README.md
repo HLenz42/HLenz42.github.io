@@ -1,4 +1,4 @@
-<img width="13993" height="158" alt="image" src="https://github.com/user-attachments/assets/fdeff730-d00c-4476-a92d-8e01e9f1a86a" /><img width="14315" height="158" alt="image" src="https://github.com/user-attachments/assets/7bbe373f-5aec-403b-8781-b6c72e2564f9" /><img width="15859" height="158" alt="image" src="https://github.com/user-attachments/assets/26a3bb81-16fd-485c-89db-27dd6428f423" /># Astrophysics Undergraduate Student
+# Astrophysics Undergraduate Student
 
 ## Table of Contents
 - [Education](#education)

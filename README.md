@@ -229,7 +229,7 @@ Below I have a few of my best astrophotography images created from data I took w
 *M31 - Andromeda Galaxy - KGMT*
 
 ![Triangululum Galaxy - KGMT](/assets/img/astro/M33-V3.png)
-*M33 - Triangululum Galaxy - KGMT *
+*M33 - Triangululum Galaxy - KGMT*
 
 ![Triangululum Galaxy - CMT](/assets/img/astro/M33_60s_stack_V1.png)
 *M33 - Triangululum Galaxy - CMT*

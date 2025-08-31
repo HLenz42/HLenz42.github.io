@@ -59,6 +59,9 @@ Veiw my [Final Physics 599 Report](/assets/img/Phys599_FinalReport_HLenz(2).pdf)
 *uiKs coulour colour diagram used to identify globular clusters by usilizing near ultraviolet, optical, and near infaread photometry.*
 <!--![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)-->
 
+![uiKs diagram used to idetifiy globular clusters](/assets/img/distributions_and_ptest.png)
+*The observed distribution of globular clusters versus a randome distribution of globular clusters around NGC 7332 and NGC 7339 compaired using the kolmogorov smirnov test to show a p value of 1.7 × 10^-4.*
+
 ### Variable Star Analysis Pipeline {#variable-star-pipeline}
 <!--[Publication](https://www.mdpi.com/1424-8220/22/11/4240)-->
 
